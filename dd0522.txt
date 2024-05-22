@@ -1,21 +1,21 @@
 🚉央视频道,#genre#
 
-CCTV-1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV-1综合,https://ldncctvwbndbd.a.bdydns.com:443/ldncctvwbnd/ldcctv1_2/index.m3u8?BR=single
-CCTV-1综合,http://gmxw.7766.org:808/hls/19/index.m3u8
-CCTV-1综合,http://58.252.12.164:8000/udp/239.77.1.17:5146
-CCTV-1综合,http://58.252.12.164:8000/udp/239.77.1.144:5146
-CCTV-1综合,http://58.252.12.164:8000/udp/239.77.0.86:5146
-CCTV-1综合,http://58.252.12.164:8000/udp/239.77.0.129:5146
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV1,https://ldncctvwbndbd.a.bdydns.com:443/ldncctvwbnd/ldcctv1_2/index.m3u8?BR=single
+CCTV1,http://gmxw.7766.org:808/hls/19/index.m3u8
+CCTV1,http://58.252.12.164:8000/udp/239.77.1.17:5146
+CCTV1,http://58.252.12.164:8000/udp/239.77.1.144:5146
+CCTV1,http://58.252.12.164:8000/udp/239.77.0.86:5146
+CCTV1,http://58.252.12.164:8000/udp/239.77.0.129:5146
 
-CCTV-5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV-5体育,http://58.252.12.164:8000/udp/239.77.0.170:5146
-CCTV-5体育,http://58.252.12.164:8000/udp/239.77.0.177:5146
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV5,http://58.252.12.164:8000/udp/239.77.0.170:5146
+CCTV5,http://58.252.12.164:8000/udp/239.77.0.177:5146
 
 
-CCTV-5+体育赛事,http://58.252.12.164:8000/udp/239.77.0.87:5146
-CCTV-5+体育赛事,http://58.252.12.164:8000/udp/239.77.1.31:5146
-CCTV-5+体育赛事,http://58.252.12.164:8000/udp/239.77.1.147:5146
+CCTV5+,http://58.252.12.164:8000/udp/239.77.0.87:5146
+CCTV5+,http://58.252.12.164:8000/udp/239.77.1.31:5146
+CCTV5+,http://58.252.12.164:8000/udp/239.77.1.147:5146
 
 CCTV1,http://gmxw.7766.org:808/hls/19/index.m3u8
 CCTV1,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
@@ -58,30 +58,61 @@ CGTNArabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🚂广西频道,#genre#
+南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://epg.pw/stream/4c867fa060d93364fea14f76352726bd2ebc55be6154220cd9adac87ffdb4728.m3u8
+广西卫视,https://epg.pw/stream/ea0d1b1fd3dead4ce62ebea5bb153d4db39617a5e0e37af009e5207049b17cfd.m3u8
+广西卫视,https://epg.pw/stream/13cd991107921fe714f3b683dfab7a894ffa6c1344674285a9ca317a802f66f3.ctv
+广西卫视,http://58.252.12.164:8000/udp/239.253.43.36:5146
+广西卫视,http://58.252.12.164:8000/udp/239.77.0.139:5146
+
 广西综艺旅游,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西都市,https://hlscdn.liangtv.cn/live/b8f4e500a4024fd2bf189b46f490359f/b04d249044fb4d0887b88aa9c2cc8f6c.m3u8
 广西影视,https://hlscdn.liangtv.cn/live/a84182dabc5147afbd3d90ddbb5a9404/d097f6c24c53463e897de496b32c7d2b.m3u8
 广西新闻,https://hlscdn.liangtv.cn/live/a48635e37ac84afa82c0d0edc4bfabf9/dbc9a18971294257bad7c75b7f3f0c20.m3u8
 广西移动,https://hlscdn.liangtv.cn/live/b6cea70bfad24970aaa2256a3c340ad4/0a79a8e5f94641e583d1872ef7bed2bf.m3u8
-南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 老友LIVE,https://hls.nntv.cn/nnlive/LYL1_24.m3u8
 
 🚒卫视频道,#genre#
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+北京卫视,https://live.sjsrm.com/bjsjs/sd/live.m3u8
+东方卫视,http://61.54.14.232:9801/tsfile/live/1021_1.m3u8
+天津卫视,http://61.54.14.232:9801/tsfile/live/1022_1.m3u8
+重庆卫视,http://61.54.14.232:9801/tsfile/live/1033_1.m3u8
+辽宁卫视,http://61.54.14.232:9801/tsfile/live/1031_1.m3u8
+吉林卫视,http://61.54.14.232:9801/tsfile/live/1037_1.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+河北卫视,http://61.54.14.232:9801/tsfile/live/1036_1.m3u8
+河南卫视,http://61.54.14.232:9801/tsfile/live/1016_1.m3u8
+山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+山西卫视,http://61.54.14.232:9801/tsfile/live/1038_1.m3u8
+湖北卫视,http://61.54.14.232:9801/tsfile/live/1027_1.m3u8
+湖南卫视,http://61.54.14.232:9801/tsfile/live/1017_1.m3u8
+广东卫视,http://61.54.14.232:9801/tsfile/live/1034_1.m3u8
+大湾区卫视,http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
+深圳卫视,http://61.54.14.232:9801/tsfile/live/1025_1.m3u8
+广西卫视,http://61.54.14.232:9801/tsfile/live/1035_1.m3u8
+三沙卫视,http://tvbox.netsite.cc/proxy/1337100319/1337100319.m3u8
+安徽卫视,http://61.54.14.232:9801/tsfile/live/1024_1.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+江苏卫视,http://61.54.14.232:9801/tsfile/live/1018_1.m3u8
+江西卫视,http://61.54.14.232:9801/tsfile/live/1026_1.m3u8
+福建东南卫视,http://61.54.14.232:9801/tsfile/live/1032_1.m3u8
+厦门卫视,http://61.54.14.232:9801/tsfile/live/1046_1.m3u8
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+贵州卫视,http://61.54.14.232:9801/tsfile/live/1030_1.m3u8
+四川卫视,http://61.54.14.232:9801/tsfile/live/1028_1.m3u8
+陕西卫视,http://61.54.14.232:9801/tsfile/live/1039_1.m3u8
+甘肃卫视,http://61.54.14.232:9801/tsfile/live/1040_1.m3u8
+宁夏卫视,http://61.54.14.232:9801/tsfile/live/1041_1.m3u8
+青海卫视,http://61.54.14.232:9801/tsfile/live/1042_1.m3u8
+新疆卫视,http://61.54.14.232:9801/tsfile/live/1045_1.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 
 ⛽🛼🦽🚜⛽
@@ -224,12 +255,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/o
 龙江卫视 Max16M1080,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1754506897_714399677/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 
 🚗电影频道,#genre#
-成龍,http://mmitv.top/pltv/yy.php?id=1354888751
-成龍,http://tx-screenshots.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
-林正英0,http://mmitv.top/pltv/yy.php?id=1351505899
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-爱情公寓,http://epg.112114.xyz/douyu/6863367
-yy电影2,http://mmitv.top/pltv/yy.php?id=1382749892
-yy电影3,http://mmitv.top/pltv/yy.php?id=1382735573
-yy电影4,http://mmitv.top/pltv/yy.php?id=24921161
-yy电影6,http://mmitv.top/pltv/yy.php?id=1382736803
+斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+IPTV相声小品,http://58.252.12.164:8000/udp/239.77.0.100:5146
+IPTV相声小品,http://58.252.12.164:8000/udp/239.77.1.84:5146
+IPTV经典电影,http://58.252.12.164:8000/udp/239.77.0.104:5146
+IPTV经典电影,http://58.252.12.164:8000/udp/239.77.1.89:5146
+IPTV热播剧场,http://58.252.12.164:8000/udp/239.77.0.106:5146
+IPTV热播剧场,http://58.252.12.164:8000/udp/239.77.1.90:5146
