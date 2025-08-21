@@ -75,7 +75,6 @@ CETV-04咪咕,http://183.162.224.36:35455/mgtv/923287339.m3u8
 🚂广西频道,#genre#
 南宁公共,rtmp://live.gxrb.com.cn/tv/nntv_gg
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
-南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 南宁新闻综合,rtmp://hls.nntv.cn/nnlive/XWZH_24
 南宁新闻综合,rtmp://live.gxrb.com.cn/tv/nntv
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
@@ -84,8 +83,6 @@ CETV-04咪咕,http://183.162.224.36:35455/mgtv/923287339.m3u8
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
-灌阳新闻综合,rtmp://live.gxrb.com.cn/gx/guanyang
-灌阳新闻综合,rtmp://live.gxxw.cn/gx/guanyang
 桂林新闻,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 南宁影视娱乐,rtmp://hls.nntv.cn/nnlive/YSYL_244
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
@@ -884,4 +881,5 @@ IPTV经典电影,http://58.252.12.164:8000/udp/239.77.0.104:5146
 IPTV经典电影,http://58.252.12.164:8000/udp/239.77.1.89:5146
 IPTV热播剧场,http://58.252.12.164:8000/udp/239.77.0.106:5146
 IPTV热播剧场,http://58.252.12.164:8000/udp/239.77.1.90:5146
+
 
